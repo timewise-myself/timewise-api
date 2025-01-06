@@ -1,0 +1,6 @@
+# IDE/editor specific files
+.idea/
+
+# Environment variables
+.env
+serviceAccount.json
